@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": "Prod05",
+      "productName": "pendrive",
+      "specification": "USB",
+      "manufacture": "Dell",
+      "quantity": "125",
+      "price": "300",
+      "inStock": false
+    },
+    {
+      "id": "",
+      "productName": "",
+      "specification": "",
+      "manufacture": "",
+      "quantity": "",
+      "price": "",
+      "inStock": false
+    },
+    {
+      "id": "p101",
+      "productName": "vivot3 5G",
+      "specification": "unlock  phone mediatek",
+      "manufacture": "xyz",
+      "quantity": "100",
+      "price": "19999",
+      "inStock": true
+    }
+  ]
+}
